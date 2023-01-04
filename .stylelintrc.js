@@ -4,6 +4,7 @@ module.exports = {
     'stylelint-config-rational-order',
     'stylelint-config-prettier',
   ],
+  customSyntax: 'postcss-html',
   defaultSeverity: 'warning',
   plugins: ['stylelint-order'],
   rules: {

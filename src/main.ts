@@ -6,6 +6,7 @@ import router from './router';
 import store from './store';
 import i18n from './locale';
 import directive from './directive';
+import 'amfe-flexible';
 import './mock';
 import App from './App.vue';
 import '@arco-design/web-vue/dist/arco.css';
